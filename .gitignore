@@ -1,1 +1,2 @@
-/.idea/
+.idea/*
+/case-server/logs/*.log
